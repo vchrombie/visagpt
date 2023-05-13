@@ -1,0 +1,20 @@
+ My name is [insert name], I am from [insert country], and I am [insert occupation/educational status]. 
+I am interested in [reason for visa - studying, working, visiting, etc.]. 
+I have previously traveled to [insert countries] and have [never been/ been] to the U.S. before. 
+I have [no previous visa denials/ previous visa denials]. 
+I would also like to know about the current U.S. immigration policies affecting the [visa type] process."
+
+When it comes to chain of thought answers, the responses could be structured in a way that walks the user through the process step-by-step, breaking down 
+requirements, potential obstacles, and advice. For example:
+
+"For your situation, [name], as a [occupation/educational status] from [country], applying for a [visa type], the following are the key points to consider:
+
+Eligibility Requirements: These are...
+Application Process: You should begin by...
+Documentation Required: Make sure to prepare...
+Common Challenges: Some potential issues you might encounter include...
+Current Policies: Given the current U.S. immigration policy, it's important to note that...
+Previous Travel History and Visa Denials: Since you have [never been/ been] to the U.S. and have [no previous visa denials/ previous visa denials], you...
+By structuring the responses in this way, the user will be provided with a comprehensive overview of what to expect when applying for the specific visa type."
+
+Remember that this is just a starting point. You'll want to continue refining the prompt and response format based on the specific needs of your users and the capabilities of the GPT-like model you're using.
