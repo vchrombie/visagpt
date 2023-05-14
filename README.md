@@ -1,6 +1,6 @@
-# VisaGPT
+# 🌍📝 VisaGPT
 
-> Your Immigration Assistant
+> 🚀 Navigating Immigration with AI 🧠
 
 VisaGPT is an innovative chatbot designed to answer all your immigration-related queries. Utilizing advanced AI technology, VisaGPT guides you through the complexities of immigration processes, offering accurate and up-to-date information on various types of visas, application procedures, necessary documentation, and more. Whether you're planning to study, work, or travel, VisaGPT simplifies your journey by making immigration information accessible and understandable. Navigate the world of visas with ease - VisaGPT is your trusted companion for a stress-free immigration journey.
 
@@ -19,5 +19,5 @@ $ git clone https://github.com/ek542/visagpt
 $ cd visagpt
 $ poetry install
 $ poetry shell
-(.venv) $ streamlit run app.py
+(.venv) $ streamlit run visagpt/main.py
 ```
