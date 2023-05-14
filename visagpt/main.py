@@ -8,7 +8,11 @@ st.set_page_config(page_title='🌍📝 VisaGPT 🚀🧠', layout="wide")
 from agent import agent
 
 def generate_response(prompt):
-    message = agent.run(prompt)
+    try:
+        message = agent.run(prompt)
+    except ValueError:
+        message = "Sorry, I don't understand. Please try again."
+
     return message
 
 sidebar()
