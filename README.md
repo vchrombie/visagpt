@@ -14,9 +14,10 @@ VisaGPT is an innovative chatbot designed to answer all your immigration-related
 ### Installation
 
 ```bash
-export OPENAI_API_KEY="<your-openai-api-key>"
-git clone https://github.com/ek542/visagpt
-cd visagpt
-poetry install
-poetry shell
+$ export OPENAI_API_KEY="<your-openai-api-key>"
+$ git clone https://github.com/ek542/visagpt
+$ cd visagpt
+$ poetry install
+$ poetry shell
+(.venv) $ streamlit run app.py
 ```
