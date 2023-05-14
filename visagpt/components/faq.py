@@ -3,8 +3,7 @@ import streamlit as st
 
 
 def faq():
-    st.markdown(
-        """
+    st.markdown("""
 # FAQ
 
 ## What is VisaGPT?
@@ -18,5 +17,4 @@ VisaGPT uses advanced AI models to generate responses, and its information is ba
 
 ## How can I provide feedback on VisaGPT?
 We welcome and appreciate any feedback you might have. You can provide feedback through our GitHub page or by contacting us directly.
-"""
-    )
+""")
